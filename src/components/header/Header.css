@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    min-width: 100vw;
+    height: 15vh;
+}
+
+.navbar {
+    min-width: 100vw;
+    height: 5vh;
+    background-color: lightblue;
+}
+
+.searchbar-container_div {
+    min-width: 100vw;
+    height: 10vh;
+    background-color: lightgray;
+}
